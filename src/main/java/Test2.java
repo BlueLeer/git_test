@@ -6,5 +6,6 @@
 public class Test2 {
     public static void main(String[] args) {
         System.out.println("秦臻6667");
+        System.out.println("秦臻666--2333");
     }
 }
